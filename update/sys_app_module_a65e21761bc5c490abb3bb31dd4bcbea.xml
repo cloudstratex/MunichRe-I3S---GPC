@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>CUSTSIAM_EXP_RD_MO</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>custsiam_exp_rd_mo</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
+        <sys_created_on>2019-11-15 01:06:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a65e21761bc5c490abb3bb31dd4bcbea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CUSTSIAM_EXP_RD_MO</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_scope>
+        <sys_update_name>sys_app_module_a65e21761bc5c490abb3bb31dd4bcbea</sys_update_name>
+        <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
+        <sys_updated_on>2019-11-15 01:06:41</sys_updated_on>
+        <timeline_page/>
+        <title>CUSTSIAM_EXP_RD_MO</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

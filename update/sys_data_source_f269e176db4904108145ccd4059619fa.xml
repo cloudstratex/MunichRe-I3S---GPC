@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_source">
+    <sys_data_source action="INSERT_OR_UPDATE">
+        <category/>
+        <connection_timeout>0</connection_timeout>
+        <connection_url>jdbc:oracle:thin:@//ORARDMSP01.cloud.munichre.com:1521/ORARDMSP01_PRI.munich.munichre.com</connection_url>
+        <connection_url_parameters/>
+        <csv_delimiter/>
+        <database_name/>
+        <database_port/>
+        <discard_arrays>true</discard_arrays>
+        <expand_node_children>false</expand_node_children>
+        <file_path/>
+        <file_retrieval_method>Attachment</file_retrieval_method>
+        <format>oracle.jdbc.OracleDriver</format>
+        <glide_keystore>false</glide_keystore>
+        <header_row>0</header_row>
+        <import_set_table_label>CUSTSIAM_EXP_RD_SW</import_set_table_label>
+        <import_set_table_name>CUSTSIAM_EXP_RD_SW</import_set_table_name>
+        <instance_name/>
+        <jdbc_password>iwnniny</jdbc_password>
+        <jdbc_server>ORARDMSP01.cloud.munichre.com</jdbc_server>
+        <jdbc_user_name>Q04</jdbc_user_name>
+        <jdbcprobe_result_set_rows/>
+        <jpath_root_node/>
+        <last_run_database_field/>
+        <last_run_datetime/>
+        <ldap_target/>
+        <maximum_rows/>
+        <mid_server display_value="MID_I3S_01">dd9d7c371bb00410abb3bb31dd4bcb27</mid_server>
+        <name>I3S - CUSTSIAM_EXP_RD_SW</name>
+        <oracle_port>1521</oracle_port>
+        <oracle_sid/>
+        <properties/>
+        <query>Specific SQL</query>
+        <query_timeout>0</query_timeout>
+        <scp_authentication>Username and Password</scp_authentication>
+        <scp_password/>
+        <scp_port/>
+        <scp_server/>
+        <scp_user_name/>
+        <sheet_number>0</sheet_number>
+        <sql_statement>select "RDMS Number",&#13;
+    "RD Creator",&#13;
+    "GPC Variant Name",&#13;
+    "GPC Variant Number",&#13;
+    "IT Product Characteristic",&#13;
+    "Operating System",&#13;
+    "IT Product Version Status",&#13;
+    "RD Name",&#13;
+    "Special Release",&#13;
+    "Status",&#13;
+    "Category",&#13;
+    "SubCategory",&#13;
+    "Release Language",&#13;
+    "Release Version",&#13;
+    "Release Owner Organization",&#13;
+    "Relevant for Service Desk",&#13;
+   "Summary",&#13;
+   "Description",&#13;
+    "Authorized for:_TODO",&#13;
+    "Software Dependencies_TODO",&#13;
+    "Release_TODO",&#13;
+    "Dependency_TODO",&#13;
+    "Notes_TODO",&#13;
+    "Hw Acc and Srv Requ",&#13;
+    "Inst only Test Env",&#13;
+    "Rollout Strategy",&#13;
+    "Rollout Details_TODO",&#13;
+    "Planned Deployment Start Date",&#13;
+    "shall be DR",&#13;
+    "Pkg Replacement Strat",&#13;
+    "Previous Pkg Phase out",&#13;
+    "Software Source Location",&#13;
+    "Packaging Type",&#13;
+    "Test Contact",&#13;
+    "Test Deputy Contact",&#13;
+    "Test Notes_TODO",&#13;
+    "PackageID",&#13;
+   "Package Name",&#13;
+    "LMDB Reference",&#13;
+    "Open Link LMDB",&#13;
+    /*"1st and known issues",&#13;
+    "2nd Level Support Unit", */ &#13;
+    "Uninstall possible_TODO",&#13;
+    "OS Version Names_TODO"&#13;
+ from CUSTSIAM_EXP_RD_SW</sql_statement>
+        <ssh_keyfile_path/>
+        <sys_class_name>sys_data_source</sys_class_name>
+        <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
+        <sys_created_on>2019-11-15 00:45:06</sys_created_on>
+        <sys_id>f269e176db4904108145ccd4059619fa</sys_id>
+        <sys_mod_count>27</sys_mod_count>
+        <sys_name>I3S - CUSTSIAM_EXP_RD_SW</sys_name>
+        <sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_scope>
+        <sys_update_name>sys_data_source_f269e176db4904108145ccd4059619fa</sys_update_name>
+        <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
+        <sys_updated_on>2019-11-15 10:18:51</sys_updated_on>
+        <table_name/>
+        <type>JDBC</type>
+        <use_integrated_authentication>false</use_integrated_authentication>
+        <use_last_run_datetime>false</use_last_run_datetime>
+        <xpath_root_node/>
+        <zipped>false</zipped>
+    </sys_data_source>
+</record_update>

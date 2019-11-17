@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="CUSTSIAM_EXP_RD_BASE_LINK" max_length="40" name="custsiam_exp_rd_base_link" sizeclass="18765" type="collection">
+        <element attributes="import_attribute_name=IS_CM2012" label="IS_CM2012" max_length="15" name="u_is_cm2012" type="decimal"/>
+        <element attributes="import_attribute_name=is_related_to" label="is_related_to" max_length="15" name="u_is_related_to" type="decimal"/>
+        <element attributes="import_attribute_name=Release_Number" label="Release_Number" max_length="15" name="u_release_number" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Release_Owner" label="Release_Owner" max_length="51" name="u_release_owner" type="string"/>
+        <element attributes="import_attribute_name=SEQ" label="SEQ" max_length="15" name="u_seq" type="decimal"/>
+    </element>
+</database>

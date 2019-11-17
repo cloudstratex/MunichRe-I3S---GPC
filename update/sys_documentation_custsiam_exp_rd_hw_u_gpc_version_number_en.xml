@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_gpc_version_number" label="GPC_Version_Number" language="en" table="custsiam_exp_rd_hw">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_gpc_version_number</element>
+            <help/>
+            <hint/>
+            <label>GPC_Version_Number</label>
+            <language>en</language>
+            <name>custsiam_exp_rd_hw</name>
+            <plural>GPC_Version_Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
+            <sys_created_on>2019-11-15 00:49:19</sys_created_on>
+            <sys_id>106aa9361b85c490abb3bb31dd4bcb83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>GPC_Version_Number</sys_name>
+            <sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_scope>
+            <sys_update_name>sys_documentation_custsiam_exp_rd_hw_u_gpc_version_number_en</sys_update_name>
+            <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
+            <sys_updated_on>2019-11-15 00:49:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="custsiam_exp_rd_hw_deployloc" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="custsiam_exp_rd_hw_deployloc" element="NULL" name="custsiam_exp_rd_hw_deployloc" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">43e0ed3adbc104108145ccd405961921</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
+            <sys_created_on>2019-11-15 00:08:00</sys_created_on>
+            <sys_id>87e0ed3adbc104108145ccd405961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
+            <sys_updated_on>2019-11-15 00:08:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="custsiam_exp_rd_hw_deployloc" element="NULL" name="custsiam_exp_rd_hw_deployloc" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">43e0ed3adbc104108145ccd405961921</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
+            <sys_created_on>2019-11-15 00:08:00</sys_created_on>
+            <sys_id>0be0ed3adbc104108145ccd405961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
+            <sys_updated_on>2019-11-15 00:08:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="custsiam_exp_rd_hw_deployloc" element="NULL" name="custsiam_exp_rd_hw_deployloc" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">43e0ed3adbc104108145ccd405961921</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
+            <sys_created_on>2019-11-15 00:08:00</sys_created_on>
+            <sys_id>8be0ed3adbc104108145ccd405961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
+            <sys_updated_on>2019-11-15 00:08:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_table</element>
+            <list_id display_value="custsiam_exp_rd_hw_deployloc" element="NULL" name="custsiam_exp_rd_hw_deployloc" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">43e0ed3adbc104108145ccd405961921</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
+            <sys_created_on>2019-11-15 00:08:00</sys_created_on>
+            <sys_id>0fe0ed3adbc104108145ccd405961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
+            <sys_updated_on>2019-11-15 00:08:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_sys_id</element>
+            <list_id display_value="custsiam_exp_rd_hw_deployloc" element="NULL" name="custsiam_exp_rd_hw_deployloc" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">43e0ed3adbc104108145ccd405961921</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
+            <sys_created_on>2019-11-15 00:08:00</sys_created_on>
+            <sys_id>8fe0ed3adbc104108145ccd405961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
+            <sys_updated_on>2019-11-15 00:08:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_row_error</element>
+            <list_id display_value="custsiam_exp_rd_hw_deployloc" element="NULL" name="custsiam_exp_rd_hw_deployloc" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">43e0ed3adbc104108145ccd405961921</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
+            <sys_created_on>2019-11-15 00:08:00</sys_created_on>
+            <sys_id>03e0ed3adbc104108145ccd405961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
+            <sys_updated_on>2019-11-15 00:08:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>custsiam_exp_rd_hw_deployloc</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
+            <sys_created_on>2019-11-15 00:08:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>43e0ed3adbc104108145ccd405961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>custsiam_exp_rd_hw_deployloc</sys_name>
+            <sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_scope>
+            <sys_update_name>sys_ui_list_custsiam_exp_rd_hw_deployloc_null</sys_update_name>
+            <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
+            <sys_updated_on>2019-11-15 00:08:00</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</application>
+        <file_path/>
+        <instance_id>03ffddfedb372bc007072f17d4961972</instance_id>
+        <instance_name>mrsnowdev01</instance_name>
+        <name>sys_ui_list_custsiam_exp_rd_hw_deployloc_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="custsiam_exp_rd_hw_deployloc" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_import_row</element><list_id display_value="custsiam_exp_rd_hw_deployloc" element="NULL" name="custsiam_exp_rd_hw_deployloc" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">43e0ed3adbc104108145ccd405961921</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>shay.faingold@cloudstratex.com</sys_created_by><sys_created_on>2019-11-15 00:08:00</sys_created_on><sys_id>87e0ed3adbc104108145ccd405961921</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by><sys_updated_on>2019-11-15 00:08:00</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_import_set</element><list_id display_value="custsiam_exp_rd_hw_deployloc" element="NULL" name="custsiam_exp_rd_hw_deployloc" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">43e0ed3adbc104108145ccd405961921</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>shay.faingold@cloudstratex.com</sys_created_by><sys_created_on>2019-11-15 00:08:00</sys_created_on><sys_id>0be0ed3adbc104108145ccd405961921</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by><sys_updated_on>2019-11-15 00:08:00</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_import_state</element><list_id display_value="custsiam_exp_rd_hw_deployloc" element="NULL" name="custsiam_exp_rd_hw_deployloc" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">43e0ed3adbc104108145ccd405961921</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>shay.faingold@cloudstratex.com</sys_created_by><sys_created_on>2019-11-15 00:08:00</sys_created_on><sys_id>8be0ed3adbc104108145ccd405961921</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by><sys_updated_on>2019-11-15 00:08:00</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_target_table</element><list_id display_value="custsiam_exp_rd_hw_deployloc" element="NULL" name="custsiam_exp_rd_hw_deployloc" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">43e0ed3adbc104108145ccd405961921</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>shay.faingold@cloudstratex.com</sys_created_by><sys_created_on>2019-11-15 00:08:00</sys_created_on><sys_id>0fe0ed3adbc104108145ccd405961921</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by><sys_updated_on>2019-11-15 00:08:00</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_target_sys_id</element><list_id display_value="custsiam_exp_rd_hw_deployloc" element="NULL" name="custsiam_exp_rd_hw_deployloc" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">43e0ed3adbc104108145ccd405961921</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>shay.faingold@cloudstratex.com</sys_created_by><sys_created_on>2019-11-15 00:08:00</sys_created_on><sys_id>8fe0ed3adbc104108145ccd405961921</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by><sys_updated_on>2019-11-15 00:08:00</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_row_error</element><list_id display_value="custsiam_exp_rd_hw_deployloc" element="NULL" name="custsiam_exp_rd_hw_deployloc" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">43e0ed3adbc104108145ccd405961921</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>shay.faingold@cloudstratex.com</sys_created_by><sys_created_on>2019-11-15 00:08:00</sys_created_on><sys_id>03e0ed3adbc104108145ccd405961922</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by><sys_updated_on>2019-11-15 00:08:00</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>custsiam_exp_rd_hw_deployloc</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>shay.faingold@cloudstratex.com</sys_created_by><sys_created_on>2019-11-15 00:08:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>43e0ed3adbc104108145ccd405961921</sys_id><sys_mod_count>0</sys_mod_count><sys_name>custsiam_exp_rd_hw_deployloc</sys_name><sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package><sys_policy/><sys_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_scope><sys_update_name>sys_ui_list_custsiam_exp_rd_hw_deployloc_null</sys_update_name><sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by><sys_updated_on>2019-11-15 00:08:00</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-481084012</payload_hash>
+        <record_name>CUSTSIAM_EXP_RD_HW_DEPLOYLOC</record_name>
+        <reverted_from/>
+        <source>40d8d5fa1bc1c490abb3bb31dd4bcb29</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
+        <sys_created_on>2019-11-15 00:37:31</sys_created_on>
+        <sys_id>5ba769321b85c490abb3bb31dd4bcb5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e6c7e5eec0000001</sys_recorded_at>
+        <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
+        <sys_updated_on>2019-11-15 00:37:31</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>1ba769320985c490522fa054bb365a5e</update_guid>
+        <update_guid_history>1ba769320985c490522fa054bb365a5e:-481084012</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
+        <sys_created_on>2019-11-15 00:37:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>55188265aea24808841da7d10653bc40</sys_id>
+        <sys_metadata>43e0ed3adbc104108145ccd405961921</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>custsiam_exp_rd_hw_deployloc</sys_name>
+        <sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package>
+        <sys_parent display_value="">c3e0ad3adbc104108145ccd4059619e3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_scope>
+        <sys_scope_delete display_value="">1cfad8625a2b4bdaa42ec93c32bb6461</sys_scope_delete>
+        <sys_update_name>sys_ui_list_custsiam_exp_rd_hw_deployloc_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_custsiam_exp_rd_hw_deployloc_null">5ba769321b85c490abb3bb31dd4bcb5e</sys_update_version>
+        <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
+        <sys_updated_on>2019-11-15 00:37:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

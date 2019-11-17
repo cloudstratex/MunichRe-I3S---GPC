@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="CUSTSIAM_EXP_RD_SW_V1_2" max_length="40" name="custsiam_exp_rd_sw_v1_2" sizeclass="10879" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Approval_Status" label="Approval_Status" max_length="40" name="u_approval_status" type="string"/>
+        <element attributes="import_attribute_name=Check_RollOutDetailsLNG" label="Check_RollOutDetailsLNG" max_length="15" name="u_check_rolloutdetailslng" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="2000" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Hw_Acc_and_Srv_Requ" label="Hw_Acc_and_Srv_Requ" max_length="2000" name="u_hw_acc_and_srv_requ" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Inst_only_Test_Env" label="Inst_only_Test_Env" max_length="40" name="u_inst_only_test_env" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=IT_Product_Characteristic" label="IT_Product_Characteristic" max_length="40" name="u_it_product_characteristic" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=IT_Product_Version_Name" label="IT_Product_Version_Name" max_length="40" name="u_it_product_version_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=IT_Product_Version_Number" label="IT_Product_Version_Number" max_length="40" name="u_it_product_version_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LMDB_Reference_extLookUp" label="LMDB_Reference_extLookUp" max_length="40" name="u_lmdb_reference_extlookup" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufacturer" label="Manufacturer" max_length="40" name="u_manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Notes_TODO" label="Notes_TODO" max_length="4000" name="u_notes_todo" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Operating_System" label="Operating_System" max_length="40" name="u_operating_system" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PackageID" label="PackageID" max_length="40" name="u_packageid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Package_Name" label="Package_Name" max_length="2000" name="u_package_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Packaging_Type" label="Packaging_Type" max_length="2000" name="u_packaging_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Pkg_Replacement_Strat" label="Pkg_Replacement_Strat" max_length="51" name="u_pkg_replacement_strat" type="string"/>
+        <element attributes="import_attribute_name=Planned_Deployment_Start_Date" label="Planned_Deployment_Start_Date" max_length="40" name="u_planned_depl_ent_start_date" type="datetime"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Previous_Pkg_Phase_out" label="Previous_Pkg_Phase_out" max_length="51" name="u_previous_pkg_phase_out" type="string"/>
+        <element attributes="import_attribute_name=Previous_Release" label="Previous_Release" max_length="15" name="u_previous_release" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Product" label="Product" max_length="40" name="u_product" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Refer_Back" label="Refer_Back" max_length="40" name="u_refer_back" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Release_Language" label="Release_Language" max_length="2018" name="u_release_language" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Release_Management_Group" label="Release_Management_Group" max_length="40" name="u_release_management_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Release_Name" label="Release_Name" max_length="2000" name="u_release_name" type="string"/>
+        <element attributes="import_attribute_name=Release_Number" label="Release_Number" max_length="15" name="u_release_number" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Release_Owner" label="Release_Owner" max_length="51" name="u_release_owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Release_Owner_Organization" label="Release_Owner_Organization" max_length="270" name="u_release_owner_organization" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Release_Status" label="Release_Status" max_length="2018" name="u_release_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Release_TODO" label="Release_TODO" max_length="40" name="u_release_todo" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Release_Type" label="Release_Type" max_length="40" name="u_release_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Release_Version" label="Release_Version" max_length="40" name="u_release_version" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Relevant_for_Service_Desk" label="Relevant_for_Service_Desk" max_length="51" name="u_relevant_for_service_desk" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Rollout_Details_TODO" label="Rollout_Details_TODO" max_length="4000" name="u_rollout_details_todo" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Rollout_Strategy" label="Rollout_Strategy" max_length="2018" name="u_rollout_strategy" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=shall_be_DR" label="shall_be_DR" max_length="51" name="u_shall_be_dr" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Software_Source_Location" label="Software_Source_Location" max_length="2000" name="u_software_source_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Special_Release" label="Special_Release" max_length="51" name="u_special_release" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Summary" label="Summary" max_length="2000" name="u_summary" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Test_Contact" label="Test_Contact" max_length="40" name="u_test_contact" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Test_Deputy_Contact" label="Test_Deputy_Contact" max_length="40" name="u_test_deputy_contact" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Test_Notes" label="Test_Notes" max_length="4000" name="u_test_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Uninstall_possible_TODO" label="Uninstall_possible_TODO" max_length="40" name="u_uninstall_possible_todo" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Version_Status" label="Version_Status" max_length="40" name="u_version_status" type="string"/>
+    </element>
+</database>

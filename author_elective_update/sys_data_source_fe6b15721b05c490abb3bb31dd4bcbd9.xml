@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_source">
+    <sys_data_source action="DELETE">
+        <category/>
+        <connection_timeout>0</connection_timeout>
+        <connection_url>jdbc:oracle:thin:@//ORARDMSP01.cloud.munichre.com:1521/ORARDMSP01_PRI.munich.munichre.com</connection_url>
+        <connection_url_parameters/>
+        <csv_delimiter/>
+        <database_name/>
+        <database_port/>
+        <discard_arrays>true</discard_arrays>
+        <expand_node_children>false</expand_node_children>
+        <file_path/>
+        <file_retrieval_method>Attachment</file_retrieval_method>
+        <format>oracle.jdbc.OracleDriver</format>
+        <glide_keystore>false</glide_keystore>
+        <header_row>0</header_row>
+        <import_set_table_label>CUSTSIAM_EXP_RD_HW</import_set_table_label>
+        <import_set_table_name>CUSTSIAM_EXP_RD_HW</import_set_table_name>
+        <instance_name/>
+        <jdbc_password>iwnniny</jdbc_password>
+        <jdbc_server>ORARDMSP01.cloud.munichre.com</jdbc_server>
+        <jdbc_user_name>Q04</jdbc_user_name>
+        <jdbcprobe_result_set_rows/>
+        <jpath_root_node/>
+        <last_run_database_field/>
+        <last_run_datetime/>
+        <ldap_target/>
+        <maximum_rows/>
+        <mid_server display_value="MID_I3S_01">dd9d7c371bb00410abb3bb31dd4bcb27</mid_server>
+        <name>I3S - CUSTSIAM_EXP_RD_HW</name>
+        <oracle_port>1521</oracle_port>
+        <oracle_sid>orcl</oracle_sid>
+        <properties/>
+        <query>All Rows from Table</query>
+        <query_timeout>0</query_timeout>
+        <scp_authentication>Username and Password</scp_authentication>
+        <scp_password/>
+        <scp_port/>
+        <scp_server/>
+        <scp_user_name/>
+        <sheet_number>0</sheet_number>
+        <sql_statement/>
+        <ssh_keyfile_path/>
+        <sys_class_name>sys_data_source</sys_class_name>
+        <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
+        <sys_created_on>2019-11-14 23:43:57</sys_created_on>
+        <sys_id>fe6b15721b05c490abb3bb31dd4bcbd9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>I3S - CUSTSIAM_EXP_RD_HW</sys_name>
+        <sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_scope>
+        <sys_update_name>sys_data_source_fe6b15721b05c490abb3bb31dd4bcbd9</sys_update_name>
+        <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
+        <sys_updated_on>2019-11-14 23:43:57</sys_updated_on>
+        <table_name>Q04.CUSTSIAM_EXP_RD_HW</table_name>
+        <type>JDBC</type>
+        <use_integrated_authentication>false</use_integrated_authentication>
+        <use_last_run_datetime>false</use_last_run_datetime>
+        <xpath_root_node/>
+        <zipped>false</zipped>
+    </sys_data_source>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</application>
+        <file_path/>
+        <instance_id>03ffddfedb372bc007072f17d4961972</instance_id>
+        <instance_name>mrsnowdev01</instance_name>
+        <name>sys_data_source_fe6b15721b05c490abb3bb31dd4bcbd9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_source"><sys_data_source action="INSERT_OR_UPDATE"><category/><connection_timeout>0</connection_timeout><connection_url>jdbc:oracle:thin:@//ORARDMSP01.cloud.munichre.com:1521/ORARDMSP01_PRI.munich.munichre.com</connection_url><connection_url_parameters/><csv_delimiter/><database_name/><database_port/><discard_arrays>true</discard_arrays><expand_node_children>false</expand_node_children><file_path/><file_retrieval_method>Attachment</file_retrieval_method><format>oracle.jdbc.OracleDriver</format><glide_keystore>false</glide_keystore><header_row>0</header_row><import_set_table_label>CUSTSIAM_EXP_RD_HW</import_set_table_label><import_set_table_name>CUSTSIAM_EXP_RD_HW</import_set_table_name><instance_name/><jdbc_password>iwnniny</jdbc_password><jdbc_server>ORARDMSP01.cloud.munichre.com</jdbc_server><jdbc_user_name>Q04</jdbc_user_name><jdbcprobe_result_set_rows/><jpath_root_node/><last_run_database_field/><last_run_datetime/><ldap_target/><maximum_rows/><mid_server display_value="MID_I3S_01">dd9d7c371bb00410abb3bb31dd4bcb27</mid_server><name>I3S - CUSTSIAM_EXP_RD_HW</name><oracle_port>1521</oracle_port><oracle_sid>orcl</oracle_sid><properties/><query>All Rows from Table</query><query_timeout>0</query_timeout><scp_authentication>Username and Password</scp_authentication><scp_password/><scp_port/><scp_server/><scp_user_name/><sheet_number>0</sheet_number><sql_statement/><ssh_keyfile_path/><sys_class_name>sys_data_source</sys_class_name><sys_created_by>shay.faingold@cloudstratex.com</sys_created_by><sys_created_on>2019-11-14 23:43:57</sys_created_on><sys_id>fe6b15721b05c490abb3bb31dd4bcbd9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>I3S - CUSTSIAM_EXP_RD_HW</sys_name><sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package><sys_policy/><sys_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_scope><sys_update_name>sys_data_source_fe6b15721b05c490abb3bb31dd4bcbd9</sys_update_name><sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by><sys_updated_on>2019-11-14 23:43:57</sys_updated_on><table_name>Q04.CUSTSIAM_EXP_RD_HW</table_name><type>JDBC</type><use_integrated_authentication>false</use_integrated_authentication><use_last_run_datetime>false</use_last_run_datetime><xpath_root_node/><zipped>false</zipped></sys_data_source></record_update>]]></payload>
+        <payload_hash>1055534472</payload_hash>
+        <record_name>I3S - CUSTSIAM_EXP_RD_HW</record_name>
+        <reverted_from/>
+        <source>40d8d5fa1bc1c490abb3bb31dd4bcb29</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
+        <sys_created_on>2019-11-14 23:43:57</sys_created_on>
+        <sys_id>7a6b15721b05c490abb3bb31dd4bcbdb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e6c4d55b80000001</sys_recorded_at>
+        <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
+        <sys_updated_on>2019-11-14 23:43:57</sys_updated_on>
+        <type>Data Source</type>
+        <update_guid>726b1572e505c490ac822cfbc0adb6db</update_guid>
+        <update_guid_history>726b1572e505c490ac822cfbc0adb6db:1055534472</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
+        <sys_created_on>2019-11-14 23:44:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_source">sys_data_source</sys_db_object>
+        <sys_id>b5abb990789940f19ef39c341a65a0c1</sys_id>
+        <sys_metadata>fe6b15721b05c490abb3bb31dd4bcbd9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>I3S - CUSTSIAM_EXP_RD_HW</sys_name>
+        <sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_scope>
+        <sys_scope_delete display_value="">1cfad8625a2b4bdaa42ec93c32bb6461</sys_scope_delete>
+        <sys_update_name>sys_data_source_fe6b15721b05c490abb3bb31dd4bcbd9</sys_update_name>
+        <sys_update_version display_value="sys_data_source_fe6b15721b05c490abb3bb31dd4bcbd9">7a6b15721b05c490abb3bb31dd4bcbdb</sys_update_version>
+        <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
+        <sys_updated_on>2019-11-14 23:44:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

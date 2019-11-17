@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">da40bf77db333300bad9d7b7f496190f</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
+        <sys_created_on>2019-11-14 23:48:04</sys_created_on>
+        <sys_id>035cd53edb8dc0108145ccd405961948</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package>
+        <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
+        <sys_updated_on>2019-11-14 23:48:04</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

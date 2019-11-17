@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>CUSTSIAM_EXP_RD_BASE_DEPLOYLOC</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>custsiam_exp_rd_base_deployloc</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">af4033b7db333300bad9d7b7f4961929</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
+        <sys_created_on>2019-11-15 00:06:41</sys_created_on>
+        <sys_id>fb90e536dbc104108145ccd4059619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custsiam Exp Rd Base Deployloc</sys_name>
+        <sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_scope>
+        <sys_update_name>sys_db_object_fb90e536dbc104108145ccd4059619a9</sys_update_name>
+        <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
+        <sys_updated_on>2019-11-15 00:06:41</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</application>
+        <file_path/>
+        <instance_id>03ffddfedb372bc007072f17d4961972</instance_id>
+        <instance_name>mrsnowdev01</instance_name>
+        <name>sys_db_object_fb90e536dbc104108145ccd4059619a9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>CUSTSIAM_EXP_RD_BASE_DEPLOYLOC</label><live_feed_enabled>false</live_feed_enabled><name>custsiam_exp_rd_base_deployloc</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">af4033b7db333300bad9d7b7f4961929</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>shay.faingold@cloudstratex.com</sys_created_by><sys_created_on>2019-11-15 00:06:41</sys_created_on><sys_id>fb90e536dbc104108145ccd4059619a9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Custsiam Exp Rd Base Deployloc</sys_name><sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package><sys_policy/><sys_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_scope><sys_update_name>sys_db_object_fb90e536dbc104108145ccd4059619a9</sys_update_name><sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by><sys_updated_on>2019-11-15 00:06:41</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-1738452274</payload_hash>
+        <record_name>CUSTSIAM_EXP_RD_BASE_DEPLOYLOC</record_name>
+        <reverted_from/>
+        <source>40d8d5fa1bc1c490abb3bb31dd4bcb29</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
+        <sys_created_on>2019-11-15 00:06:41</sys_created_on>
+        <sys_id>4ca0e536dbc104108145ccd4059619ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e6c6225d20000001</sys_recorded_at>
+        <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
+        <sys_updated_on>2019-11-15 00:06:41</sys_updated_on>
+        <type>Table</type>
+        <update_guid>c4a0e53614c1041053a29861e31665ca</update_guid>
+        <update_guid_history>c4a0e53614c1041053a29861e31665ca:-1738452274</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
+        <sys_created_on>2019-11-15 00:37:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>43b0a328e37b4136b15e57de11fff744</sys_id>
+        <sys_metadata>fb90e536dbc104108145ccd4059619a9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custsiam Exp Rd Base Deployloc</sys_name>
+        <sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_scope>
+        <sys_scope_delete display_value="">1cfad8625a2b4bdaa42ec93c32bb6461</sys_scope_delete>
+        <sys_update_name>sys_db_object_fb90e536dbc104108145ccd4059619a9</sys_update_name>
+        <sys_update_version display_value="sys_db_object_fb90e536dbc104108145ccd4059619a9">4ca0e536dbc104108145ccd4059619ca</sys_update_version>
+        <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
+        <sys_updated_on>2019-11-15 00:37:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

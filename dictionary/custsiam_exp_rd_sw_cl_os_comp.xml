@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="CUSTSIAM_EXP_RD_SW_CL_OS_COMP" max_length="40" name="custsiam_exp_rd_sw_cl_os_comp" sizeclass="21439" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Class" label="Class" max_length="61" name="u_class" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="40" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=IT_Product_Number" label="IT_Product_Number" max_length="40" name="u_it_product_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=IT_Product_Version" label="IT_Product_Version" max_length="40" name="u_it_product_version" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=IT_Product_Version_Number" label="IT_Product_Version_Number" max_length="40" name="u_it_product_version_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Product" label="Product" max_length="40" name="u_product" type="string"/>
+        <element attributes="import_attribute_name=Release_Number" label="Release_Number" max_length="15" name="u_release_number" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Release_Owner" label="Release_Owner" max_length="51" name="u_release_owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Version" label="Version" max_length="40" name="u_version" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Version_Status" label="Version_Status" max_length="40" name="u_version_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Work_Notes" label="Work_Notes" max_length="40" name="u_work_notes" type="string"/>
+    </element>
+</database>

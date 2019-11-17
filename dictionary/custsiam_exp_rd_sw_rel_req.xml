@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="CUSTSIAM_EXP_RD_SW_REL_REQ" max_length="40" name="custsiam_exp_rd_sw_rel_req" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Release_Blacklisted" label="Release_Blacklisted" max_length="256" name="u_release_blacklisted" type="string"/>
+        <element attributes="import_attribute_name=Release_Number" label="Release_Number" max_length="15" name="u_release_number" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Release_Owner" label="Release_Owner" max_length="51" name="u_release_owner" type="string"/>
+    </element>
+</database>
