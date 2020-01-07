@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_map">
+    <sys_transform_map action="DELETE">
+        <active>true</active>
+        <copy_empty_fields>false</copy_empty_fields>
+        <create_new_record_on_empty_coalesce_fields>false</create_new_record_on_empty_coalesce_fields>
+        <enforce_mandatory_fields>No</enforce_mandatory_fields>
+        <name>u_imp_tmpl_custsiam_exp_gpc_app_roles</name>
+        <order>100</order>
+        <run_business_rules>true</run_business_rules>
+        <run_script>false</run_script>
+        <script><![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]></script>
+        <source_table>u_imp_tmpl_custsiam_exp_gpc_app_roles</source_table>
+        <sys_class_name>sys_transform_map</sys_class_name>
+        <sys_created_by>daniel.mann@cloudstratex.com</sys_created_by>
+        <sys_created_on>2019-11-20 21:15:24</sys_created_on>
+        <sys_id>1df237281b9d8c10abb3bb31dd4bcb29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_imp_tmpl_custsiam_exp_gpc_app_roles</sys_name>
+        <sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_scope>
+        <sys_update_name>sys_transform_map_1df237281b9d8c10abb3bb31dd4bcb29</sys_update_name>
+        <sys_updated_by>daniel.mann@cloudstratex.com</sys_updated_by>
+        <sys_updated_on>2019-11-20 21:15:24</sys_updated_on>
+        <target_table>custsiam_exp_gpc_app_roles</target_table>
+    </sys_transform_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</application>
+        <file_path/>
+        <instance_id>03ffddfedb372bc007072f17d4961972</instance_id>
+        <instance_name>mrsnowdev01</instance_name>
+        <name>sys_transform_map_1df237281b9d8c10abb3bb31dd4bcb29</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_map"&gt;&lt;sys_transform_map action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;copy_empty_fields&gt;false&lt;/copy_empty_fields&gt;&lt;create_new_record_on_empty_coalesce_fields&gt;false&lt;/create_new_record_on_empty_coalesce_fields&gt;&lt;enforce_mandatory_fields&gt;No&lt;/enforce_mandatory_fields&gt;&lt;name&gt;u_imp_tmpl_custsiam_exp_gpc_app_roles&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;run_business_rules&gt;true&lt;/run_business_rules&gt;&lt;run_script&gt;false&lt;/run_script&gt;&lt;script&gt;&lt;![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]&gt;&lt;/script&gt;&lt;source_table&gt;u_imp_tmpl_custsiam_exp_gpc_app_roles&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_map&lt;/sys_class_name&gt;&lt;sys_created_by&gt;daniel.mann@cloudstratex.com&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-11-20 21:15:24&lt;/sys_created_on&gt;&lt;sys_id&gt;1df237281b9d8c10abb3bb31dd4bcb29&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_imp_tmpl_custsiam_exp_gpc_app_roles&lt;/sys_name&gt;&lt;sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc"&gt;c0d8d5fa1bc1c490abb3bb31dd4bcb26&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="I3S - GPC"&gt;c0d8d5fa1bc1c490abb3bb31dd4bcb26&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_map_1df237281b9d8c10abb3bb31dd4bcb29&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;daniel.mann@cloudstratex.com&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-11-20 21:15:24&lt;/sys_updated_on&gt;&lt;target_table&gt;custsiam_exp_gpc_app_roles&lt;/target_table&gt;&lt;/sys_transform_map&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>757514530</payload_hash>
+        <record_name>u_imp_tmpl_custsiam_exp_gpc_app_roles</record_name>
+        <reverted_from/>
+        <source>40d8d5fa1bc1c490abb3bb31dd4bcb29</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>daniel.mann@cloudstratex.com</sys_created_by>
+        <sys_created_on>2019-11-20 21:15:24</sys_created_on>
+        <sys_id>95f237281b9d8c10abb3bb31dd4bcb2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e8aab7b920000001</sys_recorded_at>
+        <sys_updated_by>daniel.mann@cloudstratex.com</sys_updated_by>
+        <sys_updated_on>2019-11-20 21:15:24</sys_updated_on>
+        <type>Table Transform Map</type>
+        <update_guid>9df237289f9d8c1038735ccedfd4742b</update_guid>
+        <update_guid_history>9df237289f9d8c1038735ccedfd4742b:757514530</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>daniel.mann@cloudstratex.com</sys_created_by>
+        <sys_created_on>2019-11-20 21:19:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_transform_map">sys_transform_map</sys_db_object>
+        <sys_id>509af071ee024b7eb3149023007111a4</sys_id>
+        <sys_metadata>1df237281b9d8c10abb3bb31dd4bcb29</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_imp_tmpl_custsiam_exp_gpc_app_roles</sys_name>
+        <sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_scope>
+        <sys_scope_delete display_value="">1cfad8625a2b4bdaa42ec93c32bb6461</sys_scope_delete>
+        <sys_update_name>sys_transform_map_1df237281b9d8c10abb3bb31dd4bcb29</sys_update_name>
+        <sys_update_version display_value="sys_transform_map_1df237281b9d8c10abb3bb31dd4bcb29">95f237281b9d8c10abb3bb31dd4bcb2c</sys_update_version>
+        <sys_updated_by>daniel.mann@cloudstratex.com</sys_updated_by>
+        <sys_updated_on>2019-11-20 21:19:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

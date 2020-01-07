@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_script">
+    <sys_transform_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <map display_value="u_imp_tmpl_custsiam_exp_gpc_hw_roles">1573f55c1b9d80d0abb3bb31dd4bcbf1</map>
+        <order>100</order>
+        <script><![CDATA[if (action == 'insert') 
+    ignore = true;]]></script>
+        <sys_class_name>sys_transform_script</sys_class_name>
+        <sys_created_by>daniel.mann@cloudstratex.com</sys_created_by>
+        <sys_created_on>2019-11-19 17:19:52</sys_created_on>
+        <sys_id>5d7371dc1b9d80d0abb3bb31dd4bcbc0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>onBefore</sys_name>
+        <sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_scope>
+        <sys_update_name>sys_transform_script_5d7371dc1b9d80d0abb3bb31dd4bcbc0</sys_update_name>
+        <sys_updated_by>daniel.mann@cloudstratex.com</sys_updated_by>
+        <sys_updated_on>2019-11-19 17:19:52</sys_updated_on>
+        <when>onBefore</when>
+    </sys_transform_script>
+</record_update>

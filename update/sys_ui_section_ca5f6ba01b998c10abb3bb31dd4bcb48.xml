@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="ca5f6ba01b998c10abb3bb31dd4bcb48" sys_domain="global" table="custsiam_exp_gpc_app_roles" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_legal_entity</element>
+            <position>0</position>
+            <sys_created_by>daniel.mann@cloudstratex.com</sys_created_by>
+            <sys_created_on>2019-11-20 20:59:37</sys_created_on>
+            <sys_id>525f6fe41bd98c10abb3bb31dd4bcbfa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="custsiam_exp_gpc_app_roles" sys_domain="global" view="Default view">ca5f6ba01b998c10abb3bb31dd4bcb48</sys_ui_section>
+            <sys_updated_by>daniel.mann@cloudstratex.com</sys_updated_by>
+            <sys_updated_on>2019-11-20 20:59:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_full_name</element>
+            <position>1</position>
+            <sys_created_by>daniel.mann@cloudstratex.com</sys_created_by>
+            <sys_created_on>2019-11-20 20:59:37</sys_created_on>
+            <sys_id>5a5f6fe41bd98c10abb3bb31dd4bcbfa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="custsiam_exp_gpc_app_roles" sys_domain="global" view="Default view">ca5f6ba01b998c10abb3bb31dd4bcb48</sys_ui_section>
+            <sys_updated_by>daniel.mann@cloudstratex.com</sys_updated_by>
+            <sys_updated_on>2019-11-20 20:59:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>2</position>
+            <sys_created_by>daniel.mann@cloudstratex.com</sys_created_by>
+            <sys_created_on>2019-11-20 20:59:37</sys_created_on>
+            <sys_id>da5f6fe41bd98c10abb3bb31dd4bcbfa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="custsiam_exp_gpc_app_roles" sys_domain="global" view="Default view">ca5f6ba01b998c10abb3bb31dd4bcb48</sys_ui_section>
+            <sys_updated_by>daniel.mann@cloudstratex.com</sys_updated_by>
+            <sys_updated_on>2019-11-20 20:59:37</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_role</element>
+            <position>3</position>
+            <sys_created_by>daniel.mann@cloudstratex.com</sys_created_by>
+            <sys_created_on>2019-11-20 20:59:37</sys_created_on>
+            <sys_id>5e5f6fe41bd98c10abb3bb31dd4bcbfa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="custsiam_exp_gpc_app_roles" sys_domain="global" view="Default view">ca5f6ba01b998c10abb3bb31dd4bcb48</sys_ui_section>
+            <sys_updated_by>daniel.mann@cloudstratex.com</sys_updated_by>
+            <sys_updated_on>2019-11-20 20:59:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>daniel.mann@cloudstratex.com</sys_created_by>
+            <sys_created_on>2019-11-20 20:59:37</sys_created_on>
+            <sys_id>de5f6fe41bd98c10abb3bb31dd4bcbfa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="custsiam_exp_gpc_app_roles" sys_domain="global" view="Default view">ca5f6ba01b998c10abb3bb31dd4bcb48</sys_ui_section>
+            <sys_updated_by>daniel.mann@cloudstratex.com</sys_updated_by>
+            <sys_updated_on>2019-11-20 20:59:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_gpc_number</element>
+            <position>5</position>
+            <sys_created_by>daniel.mann@cloudstratex.com</sys_created_by>
+            <sys_created_on>2019-11-20 20:59:37</sys_created_on>
+            <sys_id>525f6fe41bd98c10abb3bb31dd4bcbfb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="custsiam_exp_gpc_app_roles" sys_domain="global" view="Default view">ca5f6ba01b998c10abb3bb31dd4bcb48</sys_ui_section>
+            <sys_updated_by>daniel.mann@cloudstratex.com</sys_updated_by>
+            <sys_updated_on>2019-11-20 20:59:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>daniel.mann@cloudstratex.com</sys_created_by>
+            <sys_created_on>2019-11-20 20:59:37</sys_created_on>
+            <sys_id>d25f6fe41bd98c10abb3bb31dd4bcbfb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="custsiam_exp_gpc_app_roles" sys_domain="global" view="Default view">ca5f6ba01b998c10abb3bb31dd4bcb48</sys_ui_section>
+            <sys_updated_by>daniel.mann@cloudstratex.com</sys_updated_by>
+            <sys_updated_on>2019-11-20 20:59:37</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>custsiam_exp_gpc_app_roles</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>daniel.mann@cloudstratex.com</sys_created_by>
+            <sys_created_on>2019-11-20 20:59:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca5f6ba01b998c10abb3bb31dd4bcb48</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>custsiam_exp_gpc_app_roles</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_scope>
+            <sys_update_name>sys_ui_section_ca5f6ba01b998c10abb3bb31dd4bcb48</sys_update_name>
+            <sys_updated_by>daniel.mann@cloudstratex.com</sys_updated_by>
+            <sys_updated_on>2019-11-20 20:59:37</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

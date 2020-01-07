@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="CUSTSIAM_EXP_RDMS_SRV" max_length="40" name="custsiam_exp_rdms_srv" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Current_Standard_Version" label="Current_Standard_Version" max_length="40" name="u_current_standard_version" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="4000" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=IT_Product_Characteristic" label="IT_Product_Characteristic" max_length="40" name="u_it_product_characteristic" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=IT_Product_Version_Name" label="IT_Product_Version_Name" max_length="40" name="u_it_product_version_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=IT_Product_Version_Number" label="IT_Product_Version_Number" max_length="60" name="u_it_product_version_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=IT_Product_Version_Status" label="IT_Product_Version_Status" max_length="40" name="u_it_product_version_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufacturer" label="Manufacturer" max_length="40" name="u_manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Operating_System" label="Operating_System" max_length="40" name="u_operating_system" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Product" label="Product" max_length="40" name="u_product" type="string"/>
+        <element attributes="import_attribute_name=Refer_Back" label="Refer_Back" max_length="40" name="u_refer_back" type="char"/>
+        <element attributes="import_attribute_name=Release_Management_Group" label="Release_Management_Group" max_length="40" name="u_release_management_group" type="char"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Release_Name" label="Release_Name" max_length="150" name="u_release_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Release_Number" label="Release_Number" max_length="60" name="u_release_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Release_Owner" label="Release_Owner" max_length="40" name="u_release_owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Release_Type" label="Release_Type" max_length="40" name="u_release_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Release_Version" label="Release_Version" max_length="60" name="u_release_version" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Status" label="Status" max_length="71" name="u_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Version_Status" label="Version_Status" max_length="40" name="u_version_status" type="string"/>
+    </element>
+</database>

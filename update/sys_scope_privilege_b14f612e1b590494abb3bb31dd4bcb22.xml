@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>create</operation>
+        <source_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>daniel.mann@cloudstratex.com</sys_created_by>
+        <sys_created_on>2019-11-26 16:47:56</sys_created_on>
+        <sys_id>b14f612e1b590494abb3bb31dd4bcb22</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_mure_itpc_m2m_deployment_a_release_mana</sys_name>
+        <sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_scope>
+        <sys_update_name>sys_scope_privilege_b14f612e1b590494abb3bb31dd4bcb22</sys_update_name>
+        <sys_updated_by>daniel.mann@cloudstratex.com</sys_updated_by>
+        <sys_updated_on>2019-11-26 16:47:56</sys_updated_on>
+        <target_name>x_mure_itpc_m2m_deployment_a_release_mana</target_name>
+        <target_scope display_value="ITPC">9dbc70cc1b814410abb3bb31dd4bcbe8</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>

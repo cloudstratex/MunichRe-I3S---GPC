@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="CUSTSIAM_EXP_RD_SW_V1_2" max_length="40" name="custsiam_exp_rd_sw_v1_2" sizeclass="10879" type="collection">
+    <element extends="sys_import_set_row" label="I3S - CUSTSIAM_EXP_RD_SW_V1_2" max_length="40" name="custsiam_exp_rd_sw_v1_2" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Approval_Status" label="Approval_Status" max_length="40" name="u_approval_status" type="string"/>
         <element attributes="import_attribute_name=Check_RollOutDetailsLNG" label="Check_RollOutDetailsLNG" max_length="15" name="u_check_rolloutdetailslng" type="decimal"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="2000" name="u_description" type="string"/>

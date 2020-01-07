@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="CUSTSIAM_EXP_GPC_HW_ROLES" language="en" table="custsiam_exp_gpc_hw_roles">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>CUSTSIAM_EXP_GPC_HW_ROLES</label>
+            <language>en</language>
+            <name>custsiam_exp_gpc_hw_roles</name>
+            <plural>CUSTSIAM_EXP_GPC_HW_ROLESs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
+            <sys_created_on>2019-11-19 10:14:19</sys_created_on>
+            <sys_id>bf029c90db5d04148145ccd4059619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>CUSTSIAM_EXP_GPC_HW_ROLES</sys_name>
+            <sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_scope>
+            <sys_update_name>sys_documentation_custsiam_exp_gpc_hw_roles__en</sys_update_name>
+            <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
+            <sys_updated_on>2019-11-19 10:14:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

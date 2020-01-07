@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="CUSTSIAM_EXP_GPC_APP_VERSION" max_length="40" name="custsiam_exp_gpc_app_version" sizeclass="7201" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="4000" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=GPC_Number" label="GPC_Number" max_length="60" name="u_gpc_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=GPC_Version_Number" label="GPC_Version_Number" max_length="60" name="u_gpc_version_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="150" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Status" label="Status" max_length="71" name="u_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Version" label="Version" max_length="60" name="u_version" type="string"/>
+    </element>
+</database>

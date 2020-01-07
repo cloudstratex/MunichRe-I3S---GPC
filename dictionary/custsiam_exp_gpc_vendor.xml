@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="CUSTSIAM_EXP_GPC_VENDOR" max_length="40" name="custsiam_exp_gpc_vendor" sizeclass="5072" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Active" label="Active" max_length="40" name="u_active" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Vendor_Description" label="Vendor_Description" max_length="75" name="u_vendor_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Vendor_ID" label="Vendor_ID" max_length="100" name="u_vendor_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Vendor_Name" label="Vendor_Name" max_length="100" name="u_vendor_name" type="string"/>
+    </element>
+</database>
