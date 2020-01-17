@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
-        <access/>
+        <access>public</access>
         <actions_access>false</actions_access>
         <alter_access>false</alter_access>
         <caller_access/>
         <client_scripts_access>false</client_scripts_access>
         <configuration_access>false</configuration_access>
-        <create_access>false</create_access>
+        <create_access>true</create_access>
         <create_access_controls>false</create_access_controls>
-        <delete_access>false</delete_access>
+        <delete_access>true</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
         <label>CUSTSIAM_EXP_GPC_APP_MODEL</label>
@@ -25,15 +25,15 @@
         <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
         <sys_created_on>2019-11-19 10:13:39</sys_created_on>
         <sys_id>8ee19010db5d04148145ccd4059619ec</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Custsiam Exp Gpc App Model</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CUSTSIAM_EXP_GPC_APP_MODEL</sys_name>
         <sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package>
         <sys_policy/>
         <sys_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_scope>
         <sys_update_name>sys_db_object_8ee19010db5d04148145ccd4059619ec</sys_update_name>
-        <sys_updated_by>shay.faingold@cloudstratex.com</sys_updated_by>
-        <sys_updated_on>2019-11-19 10:13:39</sys_updated_on>
-        <update_access>false</update_access>
+        <sys_updated_by>daniel.mann@cloudstratex.com</sys_updated_by>
+        <sys_updated_on>2020-01-17 15:25:05</sys_updated_on>
+        <update_access>true</update_access>
         <user_role/>
         <ws_access>true</ws_access>
     </sys_db_object>
