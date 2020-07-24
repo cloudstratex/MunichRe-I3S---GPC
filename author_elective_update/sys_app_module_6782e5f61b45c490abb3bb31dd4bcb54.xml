@@ -65,7 +65,7 @@
         <update_guid_history>ef82e5f6ab45c49053e53451df863f55:-1971246254</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="CUSTSIAM_EXP_RD_ATT">8207e9fe1b45c490abb3bb31dd4bcb08</sys_audit_delete>
+        <sys_audit_delete display_value="">8207e9fe1b45c490abb3bb31dd4bcb08</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
         <sys_created_on>2019-11-15 00:34:42</sys_created_on>

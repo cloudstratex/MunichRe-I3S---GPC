@@ -84,7 +84,7 @@
         <update_guid_history>24eb193a018dc0109b33ba5023b04252:-504341119,24eb193a018dc0109b33ba5023b04252:-504341119,24eb193a018dc0109b33ba5023b04252:-504341119</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="I3S - CUSTSIAM_EXP_RD_BASE_LINK">27492db21b85c490abb3bb31dd4bcb6c</sys_audit_delete>
+        <sys_audit_delete display_value="">27492db21b85c490abb3bb31dd4bcb6c</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
         <sys_created_on>2019-11-15 00:44:38</sys_created_on>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="CUSTSIAM_EXP_RD_BASE_DEPLOYLOC" max_length="40" name="custsiam_exp_rd_base_deployloc" sizeclass="5835" type="collection">
+    <element extends="sys_import_set_row" label="CUSTSIAM_EXP_RD_BASE_DEPLOYLOC" max_length="40" name="custsiam_exp_rd_base_deployloc" sizeclass="5061" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=DEPLOYMENT_RC" label="DEPLOYMENT_RC" max_length="2048" name="u_deployment_rc" type="string"/>
         <element attributes="import_attribute_name=FGU_ID" label="FGU_ID" max_length="15" name="u_fgu_id" type="decimal"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=MAP" label="MAP" max_length="40" name="u_map" type="string"/>

@@ -84,7 +84,7 @@
         <update_guid_history>1b6b9572db05c4908216b8598699e15e:1137643496,1b6b9572db05c4908216b8598699e15e:1137643496,1b6b9572db05c4908216b8598699e15e:1137643496</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="I3S - DEVICEA14">04db95b21b05c490abb3bb31dd4bcb26</sys_audit_delete>
+        <sys_audit_delete display_value="">04db95b21b05c490abb3bb31dd4bcb26</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
         <sys_created_on>2019-11-14 23:45:41</sys_created_on>

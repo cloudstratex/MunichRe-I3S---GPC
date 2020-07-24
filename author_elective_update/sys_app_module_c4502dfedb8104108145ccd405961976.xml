@@ -65,7 +65,7 @@
         <update_guid_history>48502dfec5810410d08feaf3f6beb677:-1469060174</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="CUSTSIAM_EXP_RD_SW_INCOMP">c8b7a9321b85c490abb3bb31dd4bcb01</sys_audit_delete>
+        <sys_audit_delete display_value="">c8b7a9321b85c490abb3bb31dd4bcb01</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
         <sys_created_on>2019-11-15 00:37:33</sys_created_on>

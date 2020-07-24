@@ -84,7 +84,7 @@
         <update_guid_history>4f6b55722e05c490c981a821c64b7d1c:702015724,4f6b55722e05c490c981a821c64b7d1c:702015724</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="I3S - MRCDSUBSCRIPTIONRULESM1">0bcb15b21b05c490abb3bb31dd4bcb2f</sys_audit_delete>
+        <sys_audit_delete display_value="">0bcb15b21b05c490abb3bb31dd4bcb2f</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
         <sys_created_on>2019-11-14 23:45:37</sys_created_on>

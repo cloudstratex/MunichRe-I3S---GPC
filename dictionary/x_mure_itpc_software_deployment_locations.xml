@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="Software Deployment locations" max_length="40" name="x_mure_itpc_software_deployment_locations" sizeclass="306849" type="collection">
+    <element extends="sys_import_set_row" label="Software Deployment locations" max_length="40" name="x_mure_itpc_software_deployment_locations" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Deployment_Location" label="Deployment_Location" max_length="268" name="u_deployment_location" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=RDMS_Site" label="RDMS_Site" max_length="256" name="u_rdms_site" type="string"/>
         <element attributes="import_attribute_name=Release_Number" label="Release_Number" max_length="15" name="u_release_number" type="decimal"/>

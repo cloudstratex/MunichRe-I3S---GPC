@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="CUSTSIAM_EXP_RD_SW_CL_OS_COMP" max_length="40" name="custsiam_exp_rd_sw_cl_os_comp" sizeclass="21439" type="collection">
+    <element extends="sys_import_set_row" label="CUSTSIAM_EXP_RD_SW_CL_OS_COMP" max_length="40" name="custsiam_exp_rd_sw_cl_os_comp" sizeclass="25670" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Class" label="Class" max_length="61" name="u_class" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="40" name="u_description" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=IT_Product_Number" label="IT_Product_Number" max_length="40" name="u_it_product_number" type="string"/>

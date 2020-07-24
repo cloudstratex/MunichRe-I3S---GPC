@@ -84,7 +84,7 @@
         <update_guid_history>1b6b95727b05c4908e9e9717c85c420e:-790211715,1b6b95727b05c4908e9e9717c85c420e:-790211715,1b6b95727b05c4908e9e9717c85c420e:-790211715</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="I3S - MRCDGOVSTRUA1">9fcb15b21b05c490abb3bb31dd4bcb5f</sys_audit_delete>
+        <sys_audit_delete display_value="">9fcb15b21b05c490abb3bb31dd4bcb5f</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
         <sys_created_on>2019-11-14 23:45:37</sys_created_on>

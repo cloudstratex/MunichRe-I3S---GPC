@@ -84,7 +84,7 @@
         <update_guid_history>ccda40dc8e5180d02409d144bf7591a2:607017802,ccda40dc8e5180d02409d144bf7591a2:607017802</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="I3S - CUSTSIAM_EXP_GPC_APP_ROLES">f9b050d41b9180d0abb3bb31dd4bcb0a</sys_audit_delete>
+        <sys_audit_delete display_value="">f9b050d41b9180d0abb3bb31dd4bcb0a</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
         <sys_created_on>2019-11-19 10:08:28</sys_created_on>

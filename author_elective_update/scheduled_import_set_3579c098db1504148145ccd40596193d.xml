@@ -84,7 +84,7 @@
         <update_guid_history>7179c09898150414a3655f12cf768f3e:746202884,7179c09898150414a3655f12cf768f3e:746202884</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="I3S - CUSTSIAM_EXP_GPC_HW_MODEL">1e9a4c9c1b5180d0abb3bb31dd4bcb06</sys_audit_delete>
+        <sys_audit_delete display_value="">1e9a4c9c1b5180d0abb3bb31dd4bcb06</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
         <sys_created_on>2019-11-19 09:41:43</sys_created_on>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="INSERT_OR_UPDATE">
+        <choice_action>create</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd HH:mm:ss</date_format>
+        <map display_value="CUSTSIAM_EXP_RD_SW_ROLLOUTINFO">eb115d9c1b2e845477d17669cd4bcb64</map>
+        <reference_value_field/>
+        <source_field>u_tester</source_field>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]></source_script>
+        <source_table>custsiam_exp_rd_sw_deployloc</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>daniel.mann@cloudstratex.com</sys_created_by>
+        <sys_created_on>2020-01-20 18:17:05</sys_created_on>
+        <sys_id>7713599c1b6e845477d17669cd4bcb9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_tester</sys_name>
+        <sys_package display_value="I3S - GPC" source="x_mure_i3s_gpc">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I3S - GPC">c0d8d5fa1bc1c490abb3bb31dd4bcb26</sys_scope>
+        <sys_update_name>sys_transform_entry_7713599c1b6e845477d17669cd4bcb9e</sys_update_name>
+        <sys_updated_by>daniel.mann@cloudstratex.com</sys_updated_by>
+        <sys_updated_on>2020-01-20 18:17:05</sys_updated_on>
+        <target_field>test_contact</target_field>
+        <target_table>x_mure_itpc_application_release</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+</record_update>

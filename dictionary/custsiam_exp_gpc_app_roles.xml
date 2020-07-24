@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="CUSTSIAM_EXP_GPC_APP_ROLES" max_length="40" name="custsiam_exp_gpc_app_roles" sizeclass="26979" type="collection">
+    <element extends="sys_import_set_row" label="CUSTSIAM_EXP_GPC_APP_ROLES" max_length="40" name="custsiam_exp_gpc_app_roles" sizeclass="46628" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Full_Name" label="Full_Name" max_length="233" name="u_full_name" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=GPC_Number" label="GPC_Number" max_length="60" name="u_gpc_number" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Legal_Entity" label="Legal_Entity" max_length="60" name="u_legal_entity" type="string"/>

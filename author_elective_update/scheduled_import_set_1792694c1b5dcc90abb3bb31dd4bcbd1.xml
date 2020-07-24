@@ -84,7 +84,7 @@
         <update_guid_history>d392694cab5dcc90c833755d94e374d2:-938142824</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="I3S - CUST_EXP_GPC_APP_ROLES">12884cd81b5180d0abb3bb31dd4bcbab</sys_audit_delete>
+        <sys_audit_delete display_value="">12884cd81b5180d0abb3bb31dd4bcbab</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>shay.faingold@cloudstratex.com</sys_created_by>
         <sys_created_on>2019-11-19 09:32:44</sys_created_on>

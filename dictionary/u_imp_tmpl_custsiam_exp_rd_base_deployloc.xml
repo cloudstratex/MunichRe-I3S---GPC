@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl Custsiam Exp Rd Base Deployloc" max_length="40" name="u_imp_tmpl_custsiam_exp_rd_base_deployloc" sizeclass="5061" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DEPLOYMENT_RC" label="DEPLOYMENT_RC" max_length="2048" name="u_deployment_rc" type="string"/>
+        <element attributes="import_attribute_name=FGU_ID" label="FGU_ID" max_length="15" name="u_fgu_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Import set run" label="Import set run" max_length="32" name="u_import_set_run" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=MAP" label="MAP" max_length="40" name="u_map" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RD_Owner" label="RD_Owner" max_length="51" name="u_rd_owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Template Import Log" label="Template Import Log" max_length="32" name="u_template_import_log" type="string"/>
+    </element>
+</database>
